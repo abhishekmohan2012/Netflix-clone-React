@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Netflix-clone-React/static/css/main.9953f530.chunk.css",
-    "main.js": "/Netflix-clone-React/static/js/main.a750a7ab.chunk.js",
-    "main.js.map": "/Netflix-clone-React/static/js/main.a750a7ab.chunk.js.map",
-    "runtime-main.js": "/Netflix-clone-React/static/js/runtime-main.c3f4cb14.js",
-    "runtime-main.js.map": "/Netflix-clone-React/static/js/runtime-main.c3f4cb14.js.map",
-    "static/js/2.dab707ae.chunk.js": "/Netflix-clone-React/static/js/2.dab707ae.chunk.js",
-    "static/js/2.dab707ae.chunk.js.map": "/Netflix-clone-React/static/js/2.dab707ae.chunk.js.map",
-    "index.html": "/Netflix-clone-React/index.html",
-    "precache-manifest.ec35a451554d3b55ea5ab48d57d30d3d.js": "/Netflix-clone-React/precache-manifest.ec35a451554d3b55ea5ab48d57d30d3d.js",
-    "service-worker.js": "/Netflix-clone-React/service-worker.js",
-    "static/css/main.9953f530.chunk.css.map": "/Netflix-clone-React/static/css/main.9953f530.chunk.css.map",
-    "static/js/2.dab707ae.chunk.js.LICENSE.txt": "/Netflix-clone-React/static/js/2.dab707ae.chunk.js.LICENSE.txt"
+    "main.css": "/Netflix-React/static/css/main.9953f530.chunk.css",
+    "main.js": "/Netflix-React/static/js/main.abef05e7.chunk.js",
+    "main.js.map": "/Netflix-React/static/js/main.abef05e7.chunk.js.map",
+    "runtime-main.js": "/Netflix-React/static/js/runtime-main.2ea47056.js",
+    "runtime-main.js.map": "/Netflix-React/static/js/runtime-main.2ea47056.js.map",
+    "static/js/2.606bedbc.chunk.js": "/Netflix-React/static/js/2.606bedbc.chunk.js",
+    "static/js/2.606bedbc.chunk.js.map": "/Netflix-React/static/js/2.606bedbc.chunk.js.map",
+    "index.html": "/Netflix-React/index.html",
+    "precache-manifest.96983c5d572d89387a75d2c515ec5f4f.js": "/Netflix-React/precache-manifest.96983c5d572d89387a75d2c515ec5f4f.js",
+    "service-worker.js": "/Netflix-React/service-worker.js",
+    "static/css/main.9953f530.chunk.css.map": "/Netflix-React/static/css/main.9953f530.chunk.css.map",
+    "static/js/2.606bedbc.chunk.js.LICENSE.txt": "/Netflix-React/static/js/2.606bedbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3f4cb14.js",
-    "static/js/2.dab707ae.chunk.js",
+    "static/js/runtime-main.2ea47056.js",
+    "static/js/2.606bedbc.chunk.js",
     "static/css/main.9953f530.chunk.css",
-    "static/js/main.a750a7ab.chunk.js"
+    "static/js/main.abef05e7.chunk.js"
   ]
 }
